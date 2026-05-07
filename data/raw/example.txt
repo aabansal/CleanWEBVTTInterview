@@ -1,201 +1,29 @@
 WEBVTT
 
 1
-00:00:00.000 --> 00:00:02.500
-Interviewer: Welcome to the interview. Could you please introduce yourself?
+00:00:00.000 --> 00:00:04.550
+John Doe: cutting, I want to see the red dot. Okay, there we go. So,
 
 2
-00:00:02.600 --> 00:00:06.100
-Interviewee: Sure! My name is Jane Doe, and I'm a software engineer with five years of experience.
+00:00:04.550 --> 00:00:21.859
+John Doe: Approximately, it should take around 60 minutes. There's four sections. The first one is a very brief overview. The second part is on the mechanism itself, and the third part is on organizational structures, and the last part is cross-country analysis.
 
 3
-00:00:06.200 --> 00:00:09.800
-Interviewer: That's great. Can you tell us about your background and how you got started in tech?
+00:00:22.610 --> 00:00:27.230
+John Doe: And… Okay, so with that, so…
 
 4
-00:00:09.900 --> 00:00:13.200
-Interviewee: I started with a degree in computer science, and I was always interested in building things.
+00:00:28.350 --> 00:00:38.979
+John Doe: We understand you, as a consultant with EFED, are responsible for managing and overseeing the program implementation in India.
 
 5
-00:00:13.300 --> 00:00:17.000
-Interviewer: Interesting! What was your first job in the field?
+00:00:39.000 --> 00:01:02.360
+John Doe: And we also understand that you're responsible for some of the monitoring and evaluation components. Is this correct, or could you, yeah, so, I'll briefly introduce what exactly I do. So, I joined this project in December 2021, and after that, in June 5, it, launched, it got launched.
 
 6
-00:00:17.100 --> 00:00:21.000
-Interviewee: My first job was as a junior developer at Tech Innovations Inc., working on web applications.
+00:01:02.360 --> 00:01:27.349
+John Doe: Okay, so when I joined, so there was another consultant who was based in Mavam office, so she was mainly looking for liaisoning, coordinating with it, and I was looking for the technical as well, providing technical guidance, technical support to Mavam to implement, to monitor, or to report the GTM. But last year, that consultant left, and then I'm also taking the responsibility
 
 7
-00:00:21.100 --> 00:00:25.400
-Interviewer: That sounds like a solid start. What was the most challenging project you worked on there?
-
-8
-00:00:25.500 --> 00:00:29.200
-Interviewee: We were building an e-commerce platform, and scaling it for high traffic was a huge challenge.
-
-9
-00:00:29.300 --> 00:00:33.100
-Interviewer: How did you overcome that challenge?
-
-10
-00:00:33.200 --> 00:00:37.000
-Interviewee: We used microservices architecture, and implemented caching mechanisms to handle the load.
-
-11
-00:00:37.100 --> 00:00:41.300
-Interviewer: Sounds like a great solution! Can you tell us about a recent project you've been working on?
-
-12
-00:00:41.400 --> 00:00:45.200
-Interviewee: Recently, I've been working on an AI-powered recommendation system for a client.
-
-13
-00:00:45.300 --> 00:00:49.400
-Interviewer: That’s exciting! What technologies did you use for this project?
-
-14
-00:00:49.500 --> 00:00:53.200
-Interviewee: We used Python, TensorFlow, and some cloud services like AWS to deploy the model.
-
-15
-00:00:53.300 --> 00:00:57.000
-Interviewer: How do you approach problem-solving when facing a tough challenge?
-
-16
-00:00:57.100 --> 00:01:01.200
-Interviewee: I break the problem into smaller, manageable parts, and tackle them one by one.
-
-17
-00:01:01.300 --> 00:01:05.200
-Interviewer: That sounds like a good method. What skills do you think are most important in your field?
-
-18
-00:01:05.300 --> 00:01:09.200
-Interviewee: Problem-solving, communication, and adaptability are key to being successful.
-
-19
-00:01:09.300 --> 00:01:13.400
-Interviewer: I completely agree. Do you have any advice for someone just starting out in tech?
-
-20
-00:01:13.500 --> 00:01:17.200
-Interviewee: Don't be afraid to experiment and fail. The more you learn from mistakes, the better you'll get.
-
-21
-00:01:17.300 --> 00:01:21.000
-Interviewer: Great advice! What do you enjoy most about your job?
-
-22
-00:01:21.100 --> 00:01:25.100
-Interviewee: I love the creativity it involves. Building something from scratch and solving complex problems is rewarding.
-
-23
-00:01:25.200 --> 00:01:29.200
-Interviewer: That’s fantastic. How do you stay updated with new technologies?
-
-24
-00:01:29.300 --> 00:01:33.000
-Interviewee: I follow industry blogs, attend conferences, and take online courses to keep my skills sharp.
-
-25
-00:01:33.100 --> 00:01:37.200
-Interviewer: Are there any specific resources you recommend for beginners?
-
-26
-00:01:37.300 --> 00:01:41.100
-Interviewee: Codecademy and freeCodeCamp are great for getting started, and there are many free courses on Coursera.
-
-27
-00:01:41.200 --> 00:01:45.200
-Interviewer: Those are excellent resources. What project are you most proud of?
-
-28
-00:01:45.300 --> 00:01:49.100
-Interviewee: I’m particularly proud of a data visualization dashboard I created for a non-profit.
-
-29
-00:01:49.200 --> 00:01:53.300
-Interviewer: That sounds rewarding! How did you handle working with a non-technical team?
-
-30
-00:01:53.400 --> 00:01:57.100
-Interviewee: I made sure to keep the communication simple and focused on the end goals.
-
-31
-00:01:57.200 --> 00:02:01.200
-Interviewer: Good approach! Do you think it’s important to have a balance between technical and soft skills?
-
-32
-00:02:01.300 --> 00:02:05.100
-Interviewee: Absolutely. Technical skills are crucial, but soft skills like teamwork and communication make a huge difference.
-
-33
-00:02:05.200 --> 00:02:09.300
-Interviewer: What’s the best piece of advice you’ve received during your career?
-
-34
-00:02:09.400 --> 00:02:13.200
-Interviewee: “Fail fast, learn fast.” It helps you grow and improve without getting stuck.
-
-35
-00:02:13.300 --> 00:02:17.200
-Interviewer: I love that. Do you have any plans for further education or certifications?
-
-36
-00:02:17.300 --> 00:02:21.100
-Interviewee: I plan to pursue a certification in machine learning to expand my knowledge.
-
-37
-00:02:21.200 --> 00:02:25.100
-Interviewer: That sounds like a great next step. What do you see yourself doing in five years?
-
-38
-00:02:25.200 --> 00:02:29.200
-Interviewee: I hope to be leading a team, working on more impactful AI projects.
-
-39
-00:02:29.300 --> 00:02:33.000
-Interviewer: Leadership in AI—that’s exciting! Any final thoughts or advice for our audience?
-
-40
-00:02:33.100 --> 00:02:37.100
-Interviewee: Keep learning, stay curious, and don’t be afraid to take risks. The tech industry is full of opportunities.
-
-41
-00:02:37.200 --> 00:02:41.100
-Interviewer: Well said. Thank you so much for your time today, Jane.
-
-42
-00:02:41.200 --> 00:02:45.200
-Interviewee: Thank you for having me. It was a pleasure!
-
-43
-00:02:45.300 --> 00:02:49.100
-Interviewer: We appreciate you sharing your insights. Best of luck with your future projects!
-
-44
-00:02:49.200 --> 00:02:53.000
-Interviewee: Thanks, I’m excited for what’s ahead!
-
-45
-00:02:53.100 --> 00:02:57.100
-Interviewer: It’s been a pleasure, and we look forward to seeing your work in the future.
-
-46
-00:02:57.200 --> 00:03:01.000
-Interviewee: I look forward to it as well. Take care!
-
-47
-00:03:01.100 --> 00:03:05.000
-Interviewer: Take care, Jane. Thank you again for being here.
-
-48
-00:03:05.100 --> 00:03:09.100
-Interviewee: You’re welcome. Bye now!
-
-49
-00:03:09.200 --> 00:03:13.100
-Interviewer: Goodbye!
-
-50
-00:03:13.200 --> 00:03:17.000
-(End of Interview)
+00:01:27.350 --> 00:01:49.959
+John Doe: to coordinate, really as in between MAVEM, GTM Secretariat, country office, so… so my role is, like, more, like, as, like, liaison officer. And, yes, I provide technical support, overall guidance, in implementation of, even the planning and implementation of GTM-related activities.

@@ -43,7 +43,7 @@ The script will automatically read these corrections and apply them during proce
 From the repository root:
 
 ```bash
-cd "...\Transcript_cleaning_EPAR"
+cd "...\CleanWEBVTTInterview"
 python cleaning.py
 ```
 
