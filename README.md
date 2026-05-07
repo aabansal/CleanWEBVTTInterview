@@ -1,5 +1,7 @@
 Amay Bansal
 5/7/2026
+[![DOI](https://zenodo.org/badge/1232103379.svg)](https://doi.org/10.5281/zenodo.20072749)
+
 # Transcript Cleaning
 
 This folder contains a simple transcript cleaning script for WebVTT-style interview transcripts for qualitative nterviews.
