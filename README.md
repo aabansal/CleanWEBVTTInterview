@@ -1,8 +1,5 @@
 Amay Bansal
-5/5/2026
-EPAR 
-India Risk Profiles
-
+5/7/2026
 # Transcript Cleaning
 
 This folder contains a simple transcript cleaning script for WebVTT-style interview transcripts for qualitative nterviews.
