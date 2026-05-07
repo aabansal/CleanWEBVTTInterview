@@ -5,7 +5,7 @@ India Risk Profiles
 
 # Transcript Cleaning
 
-This folder contains a simple transcript cleaning script for WebVTT-style interview transcripts for India Risk Profiles Interviews.
+This folder contains a simple transcript cleaning script for WebVTT-style interview transcripts for qualitative nterviews.
 
 ## What it does
 
@@ -58,7 +58,7 @@ To clean a single file manually, update the script call in the `if __name__ == "
 
 ```python
 from cleaning import clean_transcript
-clean_transcript("./data/raw/Gayatri Mahr_IFAD_GTM Liaison.txt")
+clean_transcript("./data/raw/IFAD Liaison.txt")
 ```
 
 ## Output
@@ -71,4 +71,4 @@ Cleaned transcripts are saved to the `data/processed` folder with names like:
 
 - The script still needs to be processed to separate interviewer and interviewee text.
 - The script is designed for txt files exported in WebVTT-like format.
-- If you need to add new filler words or misspellings, update `remove_filler_words()` and `correct_misspellings()` in `cleaning.py`.
+- If you need to add new filler words, update `remove_filler_words()` in `cleaning.py`.
